@@ -977,6 +977,7 @@ audio {
 	transform:translate(0px,-500px);
 	height: 200px;
 	margin-bottom: 5rem;
+	margin-top: 2rem;
 }
 .bannar-come {
 	-webkit-animation: bannar_come linear 6s;
@@ -1313,7 +1314,7 @@ audio {
         font-family: 'Signika', sans-serif;
         font-weight: 700;
         color: #fff;
-        background-color: #466baf;
+        background-color: pink;
 }
     .btn-primary:hover,
     .btn-primary:focus,
@@ -1322,7 +1323,7 @@ audio {
     .open .dropdown-toggle.btn-primary {
         border-color: #fff;
         color: #fff;
-        background-color: #466baf;
+        background-color: pink;
     }
 
 
